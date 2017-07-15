@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HHRR:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HHRR_jar</output-path>
+    <root id="archive" name="HHRR.jar">
+      <element id="module-output" name="HHRR" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mysql-connector-java-5.1.42/mysql-connector-java-5.1.42-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
